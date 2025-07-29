@@ -1,10 +1,10 @@
 img {
-  border-radius: 75 px;
+  border-radius: 75px;
   border-style: solid;
-  border-color: rgb (203, 161, 211);
+  border-color: rgb(203, 161, 211);
 }
 h2 {
-  font-size: 18 px;
+  font-size: 18px;
 }
 body{
   background-color: black ;
@@ -12,13 +12,13 @@ body{
   color: white;
 }
 a {
-  background-color: rgb (203, 161, 211); 
-  font-size: 20 px;
-  border-radius: 10 px;
-  padding: 10 px;
+  background-color: rgb(203, 161, 211); 
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
   display: block;
   text-align: center;
-  margin: 10 px;
+  margin: 10px;
   color: black;
 }
 body{
