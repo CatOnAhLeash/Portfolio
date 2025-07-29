@@ -1,25 +1,25 @@
 img {
-  border-radius:75px;
+  border-radius: 75 px;
   border-style: solid;
-  border-color:rgb(203, 161, 211);
+  border-color:rgb (203, 161, 211);
 }
 h2 {
-  font-size:18px;
+  font-size: 18 px;
 }
 body{
-  background-color:black ;
+  background-color: black ;
   font-family:"Trebuchet MS";
-  color:white;
+  color: white;
 }
 a {
-  background-color: rgb(203, 161, 211); 
-  font-size: 20px;
-  border-radius:10px;
-  padding:10px;
+  background-color: rgb (203, 161, 211); 
+  font-size: 20 px;
+  border-radius: 10 px;
+  padding: 10 px;
   display: block;
   text-align: center;
-  margin: 10px;
-  color:black;
+  margin: 10 px;
+  color: black;
 }
 body{
   text-align: center;
